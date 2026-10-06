@@ -27,6 +27,8 @@ C-Problem-Solving/
 ├── Module-1/                     # Basic C Syntax & Conditionals
 │   ├── first.c                   # Basic I/O & Output
 │   ├── five_marks_add_with_input_number.c # Addition with input number (+5)
+│   ├── floating_point_number.c   # Float precision & formatting
+│   ├── multiple_or_not.c         # Modulus & multiple checking logic
 │   └── zero_non_zero_problem.c   # Conditional logic practice
 │
 ├── README.md                     # Repository documentation
@@ -39,8 +41,9 @@ C-Problem-Solving/
 
 - [x] **Module 01: Basics of C & Control Structures**
   - Data Types, Variables & Format Specifiers (`printf`, `scanf`)
-  - Basic Arithmetic Operations & Input Calculation
-  - If-Else Conditionals & Decision Making
+  - Floating Point Precision & Formatting (`float`, `%.3f`)
+  - Basic Arithmetic & Modulus Operator (`+`, `%`)
+  - If-Else & Multi-Branch Conditionals
 - [ ] **Module 02: Loops & Iterations**
   - `for`, `while`, `do-while` loops & Nested Loops
 - [ ] **Module 03: Arrays & Strings**
@@ -63,6 +66,8 @@ C-Problem-Solving/
 | 1 | Basic Hello & Setup | Module 1 | Input / Output (`printf`) | [first.c](file:///Users/chironjitchandraroy/C/Module-1/first.c) |
 | 2 | Zero or Non-Zero Check | Module 1 | Conditional branching (`if-else`) | [zero_non_zero_problem.c](file:///Users/chironjitchandraroy/C/Module-1/zero_non_zero_problem.c) |
 | 3 | Add 5 to Input Number | Module 1 | Basic Arithmetic & Input (`scanf`, `+`) | [five_marks_add_with_input_number.c](file:///Users/chironjitchandraroy/C/Module-1/five_marks_add_with_input_number.c) |
+| 4 | Floating Point Number Format | Module 1 | Float Precision (`float`, `%.3f`) | [floating_point_number.c](file:///Users/chironjitchandraroy/C/Module-1/floating_point_number.c) |
+| 5 | Multiple or Not Check | Module 1 | Modulus Operator & Logic (`%`, `if-else`) | [multiple_or_not.c](file:///Users/chironjitchandraroy/C/Module-1/multiple_or_not.c) |
 
 ---
 

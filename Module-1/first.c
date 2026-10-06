@@ -2,17 +2,6 @@
 
 int main(){
 
-    int n;
-    scanf("%d", &n);
-
-    if(n==0){
-        printf("Zero");
-    }else{
-        printf("Non Zero");
-    };
-
-
-
-
-    return 0;
+  printf("How are you " );
+  return 0;
 }

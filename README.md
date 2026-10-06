@@ -25,7 +25,8 @@ Welcome to my **C Problem Solving** repository! This repository contains my solu
 C-Problem-Solving/
 │
 ├── Module-1/                     # Basic C Syntax & Conditionals
-│   ├── first.c                   # Introduction & Basic I/O
+│   ├── first.c                   # Basic I/O & Output
+│   ├── five_marks_add_with_input_number.c # Addition with input number (+5)
 │   └── zero_non_zero_problem.c   # Conditional logic practice
 │
 ├── README.md                     # Repository documentation
@@ -38,6 +39,7 @@ C-Problem-Solving/
 
 - [x] **Module 01: Basics of C & Control Structures**
   - Data Types, Variables & Format Specifiers (`printf`, `scanf`)
+  - Basic Arithmetic Operations & Input Calculation
   - If-Else Conditionals & Decision Making
 - [ ] **Module 02: Loops & Iterations**
   - `for`, `while`, `do-while` loops & Nested Loops
@@ -58,8 +60,9 @@ C-Problem-Solving/
 
 | # | Problem Name | Module | Key Concept | Code Link |
 |---|--------------|--------|-------------|-----------|
-| 1 | Basic Hello & Setup | Module 1 | Input / Output (`scanf`, `printf`) | [first.c](file:///Users/chironjitchandraroy/C/Module-1/first.c) |
+| 1 | Basic Hello & Setup | Module 1 | Input / Output (`printf`) | [first.c](file:///Users/chironjitchandraroy/C/Module-1/first.c) |
 | 2 | Zero or Non-Zero Check | Module 1 | Conditional branching (`if-else`) | [zero_non_zero_problem.c](file:///Users/chironjitchandraroy/C/Module-1/zero_non_zero_problem.c) |
+| 3 | Add 5 to Input Number | Module 1 | Basic Arithmetic & Input (`scanf`, `+`) | [five_marks_add_with_input_number.c](file:///Users/chironjitchandraroy/C/Module-1/five_marks_add_with_input_number.c) |
 
 ---
 

@@ -25,6 +25,12 @@ Welcome to my **C Problem Solving** repository! This repository contains my solu
 C-Problem-Solving/
 │
 ├── Module-1/                     # Basic C Syntax & Conditionals
+│   ├── Assignment-1/             # Module 1 Assignments
+│   │   ├── divisible_three.c
+│   │   ├── divisivle_three_seven.c
+│   │   ├── multiplication.c
+│   │   ├── panta_vat.c
+│   │   └── shopping.c
 │   ├── first.c                   # Basic I/O & Output
 │   ├── five_marks_add_with_input_number.c # Addition with input number (+5)
 │   ├── floating_point_number.c   # Float precision & formatting
@@ -68,6 +74,8 @@ C-Problem-Solving/
 | 3 | Add 5 to Input Number | Module 1 | Basic Arithmetic & Input (`scanf`, `+`) | [five_marks_add_with_input_number.c](file:///Users/chironjitchandraroy/C/Module-1/five_marks_add_with_input_number.c) |
 | 4 | Floating Point Number Format | Module 1 | Float Precision (`float`, `%.3f`) | [floating_point_number.c](file:///Users/chironjitchandraroy/C/Module-1/floating_point_number.c) |
 | 5 | Multiple or Not Check | Module 1 | Modulus Operator & Logic (`%`, `if-else`) | [multiple_or_not.c](file:///Users/chironjitchandraroy/C/Module-1/multiple_or_not.c) |
+| 6 | Divisible by 3 and 7 | Module 1 | Loop and Modulus (`for`, `%`) | [divisivle_three_seven.c](file:///Users/chironjitchandraroy/C/Module-1/Assignment-1/divisivle_three_seven.c) |
+| 7 | Shopping Problem | Module 1 | Conditionals (`if-else`, `long long int`) | [shopping.c](file:///Users/chironjitchandraroy/C/Module-1/Assignment-1/shopping.c) |
 
 ---
 
